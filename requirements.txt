@@ -1,0 +1,2 @@
+Flask-Script==0.6.6
+alembic==0.6.2
